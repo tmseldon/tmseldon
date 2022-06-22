@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I'm Cris 🌵
+
+I've started making games in Unity and this is my portfolio of games (source code).
+
+You can download and play my games at my itch.io account:
+
+> [my itch.io account](https://tmseldon.itch.io/) 
+
+I hope you enjoy any of my games, any feedback is very welcome!
+
+Thanks! :D
 
 <!--
 **tmseldon/tmseldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
