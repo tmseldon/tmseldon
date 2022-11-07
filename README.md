@@ -10,7 +10,7 @@ I hope you enjoy any of my games, any feedback is very welcome!
 
 Thanks! :D
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmseldon&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmseldon&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
