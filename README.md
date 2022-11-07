@@ -10,6 +10,9 @@ I hope you enjoy any of my games, any feedback is very welcome!
 
 Thanks! :D
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmseldon&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **tmseldon/tmseldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
