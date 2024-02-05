@@ -1,6 +1,6 @@
 ### Hi! I'm Cris 🌵
 
-I've been making games in Unity and this is my portfolio of games (source code). Most of my games are made using **Unity 2019/2020**. However, I'm starting working with **Unreal Engine 5** as well.
+I've been making video games in Unity for a couple of years and recently in Unreal as well. This is my portfolio of games (source code) where my first games are made using **Unity 2019/2020** and; the most recent are done with **Unreal Engine 5~5.3**.
 
 You can download and play my games at my itch.io account:
 
